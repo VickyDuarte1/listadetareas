@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+### `Lista de tareas a partir de React: Agrega una tarea, tachala cuando se complete y eliminala cuando quieras`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
